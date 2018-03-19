@@ -1,0 +1,19 @@
+{
+  "name": "petals-game",
+  "private": true,
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "kareniel",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "budo": "^11.2.0"
+  },
+  "dependencies": {
+    "nanobus": "^4.3.3",
+    "nanostate": "^1.2.1"
+  }
+}
